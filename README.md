@@ -13,7 +13,7 @@ This project serves as a practical example of using web technologies to create i
 - **User-Friendly Interface**: Intuitive layout with clear button labels for simplicity.
 
 # Demo  
-[Calc Demo Img](https://github.com/OmkarMaurya-g1/CALCULATOR/blob/main/calc%20demo%20img.png)
+![Calc Demo](https://github.com/OmkarMaurya-g1/CALCULATOR/blob/main/Calc%20demo%20img.png)
 
 
 # Technologies Used  
